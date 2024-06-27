@@ -1,2 +1,2 @@
 Go to main website:
-https://mt-servicesc1s.github.io
+https://github.com/Mt-ServicesC1s/Mt-ServicesC1s.github.io
